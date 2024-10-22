@@ -1,7 +1,7 @@
-# *.http
-# bin/
-# obj/
+*.http
+bin/
+obj/
 
-# ###
-# bin
-# obj
+###
+bin
+obj
